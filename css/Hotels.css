@@ -1,0 +1,20 @@
+.picture {
+  width : 600px;
+  height : 400px;
+  margin-left: 300px;
+  margin-bottom: 50px;
+}
+.title{
+  text-align: center;
+  font-size: 90px;
+  font-family: monospace;
+
+}
+.content{
+  margin-left: 40px;
+  margin-top: 40px;
+}
+.paragraph{
+  font-family: sans-serif;
+
+  }
