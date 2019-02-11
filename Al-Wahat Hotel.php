@@ -1,9 +1,13 @@
 <!DOCTYPE HTML>
+<!--
+	Aesthetic by gettemplates.co
+	Twitter: http://twitter.com/gettemplateco
+	URL: http://gettemplates.co
+-->
 <html>
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Traveler &mdash; </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Website Template by GetTemplates.co" />
 	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
@@ -58,7 +62,7 @@
 
 	<div id="page">
 
-        
+
 	<!-- <div class="page-inner"> -->
 	<nav class="gtco-nav" role="navigation">
 		<div class="gtco-container">
@@ -69,12 +73,12 @@
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
-						<li class="active"><a href="destination.php">AirLines</a></li>
+						<li><a href="destination.php">Airlines</a></li>
 						<li class="has-dropdown">
 							<a href="index.php">Travel</a>
 
 						</li>
-						<li><a href="pricing.php">Hotels</a></li>
+						<li class="active"><a href="pricing.php">Hotels</a></li>
 						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
@@ -83,7 +87,7 @@
 		</div>
 	</nav>
 
-	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(images/2.jpg)">
+	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image: url(images/hotel.jpg)">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -91,7 +95,7 @@
 					<div class="row row-mt-15em">
 
 						<div class="col-md-12 mt-text animate-box" data-animate-effect="fadeInUp">
-							<h1>AirLines</h1>
+							<h1>Find somewhere to stay</h1>
 						</div>
 
 					</div>
@@ -101,98 +105,28 @@
 		</div>
 	</header>
 
-	<div class="gtco-section">
+
+
+	<div class="gtco-section border-bottom">
 		<div class="gtco-container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					<h2>Trip With Your Favourite Airlines</h2>
+					<h2>Choose The Best hotel For You</h2>
+
 				</div>
 			</div>
 			<div class="row">
+				<div class="col-md-4">
+									</div>
+				<div class="col-md-4">
 
-				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/libyan.jpg" class="fh5co-card-item image-popup">
-						<figure>
-							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/libyan.jpg" alt="Image" class="img-responsive">
-						</figure>
-						<div class="fh5co-text">
-							<h2>Libyan Airline</h2>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
-						</div>
-					</a>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/afrigia.jpg" class="fh5co-card-item image-popup">
-						<figure>
-							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/afrigia.jpg" alt="Image" class="img-responsive" width="300">
-						</figure>
-						<div class="fh5co-text">
-							<h2>Afriqiyah Airline</h2>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
-						</div>
-					</a>
+				<div class="col-md-4">
+
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/buraq1.jpg" class="fh5co-card-item image-popup">
-						<figure>
-							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/buraq1.jpg" alt="Image" class="img-responsive">
-						</figure>
-						<div class="fh5co-text">
-							<h2>Buraq Airline</h2>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
-						</div>
-					</a>
-				</div>
-
-
-				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/air_libya.jpg" class="fh5co-card-item image-popup">
-						<figure>
-							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/air_libya.jpg" alt="Image" class="img-responsive">
-						</figure>
-						<div class="fh5co-text">
-							<h2>Air Libya</h2>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
-						</div>
-					</a>
-				</div>
-
-				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/ghdams.jpg" class="fh5co-card-item image-popup">
-						<figure>
-							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/ghdams.jpg" alt="Image" class="img-responsive">
-						</figure>
-						<div class="fh5co-text">
-							<h2>Ghadames Airline</h2>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
-						</div>
-					</a>
-				</div>
-
-				<div class="col-lg-4 col-md-4 col-sm-6">
-					<a href="images/kofra.jpg" class="fh5co-card-item image-popup">
-						<figure>
-							<div class="overlay"><i class="ti-plus"></i></div>
-							<img src="images/kofra.jpg" alt="Image" class="img-responsive">
-						</figure>
-						<div class="fh5co-text">
-							<h2>Air Kufra</h2>
-							<p><span class="btn btn-primary">Schedule a Trip</span></p>
-						</div>
-					</a>
-				</div>
-
-
-
 			</div>
 		</div>
 	</div>
-
 
 
 	<footer id="gtco-footer" role="contentinfo">
